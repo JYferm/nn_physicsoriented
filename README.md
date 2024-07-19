@@ -13,9 +13,3 @@ The model is a simple neural network with one hidden layer:
 - Hidden layer: Dense (128 units, ReLU activation)
 - Output layer: Dense (10 units, Softmax activation)
 
-## Usage
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/neural_network_mnist.git
-   cd neural_network_mnist
